@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\TestWork\TestWork\bin\Debug\TestWork.exe.config
+D:\VisualStudioProjects\TestWork\TestWork\bin\Debug\TestWork.exe
+D:\VisualStudioProjects\TestWork\TestWork\bin\Debug\TestWork.pdb
+D:\VisualStudioProjects\TestWork\TestWork\obj\Debug\TestWork.ProductAccountingForm.resources
+D:\VisualStudioProjects\TestWork\TestWork\obj\Debug\TestWork.Properties.Resources.resources
+D:\VisualStudioProjects\TestWork\TestWork\obj\Debug\TestWork.csproj.GenerateResource.cache
+D:\VisualStudioProjects\TestWork\TestWork\obj\Debug\TestWork.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\TestWork\TestWork\obj\Debug\TestWork.exe
+D:\VisualStudioProjects\TestWork\TestWork\obj\Debug\TestWork.pdb
+D:\VisualStudioProjects\TestWork\TestWork\obj\Debug\TestWork.csprojAssemblyReference.cache
